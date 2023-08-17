@@ -1,4 +1,3 @@
-from sre_parse import State
 from tkinter import *
 import random
 import datetime
